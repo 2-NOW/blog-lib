@@ -1,6 +1,6 @@
 {
   "name": "@2now/gatsby-theme-minimal-blog",
-  "version": "1.0.12",
+  "version": "1.0.15",
   "author": "2now",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
   "license": "MIT",
